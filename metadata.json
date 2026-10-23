@@ -1,0 +1,10 @@
+{
+  "name": "RoadGuard AI — Pothole Detection & Road Maintenance Platform",
+  "description": "AI-powered civic road maintenance platform detecting potholes, classifying severity, grouping duplicates, and coordinating repairs between citizens and municipal authorities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
